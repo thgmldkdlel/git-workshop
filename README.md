@@ -1,6 +1,6 @@
 # git-workshop
 git 사용 실습
 
-1. [아침] (mornig.md)
-2. 점심
-3. 저녁
+1. [조식] (morning.md)
+2. 중식
+3. 석식
